@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Imports/Mini Chibi Free Demo/Scenes/Mini Chibi Free Demo.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/GOB Scene.unity
+    guid: 39d0665217f15664c98e08b4f0259be9
   m_configObjects: {}
